@@ -9,7 +9,11 @@ import org.openqa.selenium.support.ui.Select;
 import org.testng.annotations.Test;
 
 // added some comment
+<<<<<<< HEAD
 // hello new develop branch
+=======
+// this is branch master
+>>>>>>> master
 public class FirstJavaClass {
 
     WebDriver driver;
